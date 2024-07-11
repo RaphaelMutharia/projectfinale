@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993224369812",
+    "project_id": "trapstar-8e6b3",
+    "storage_bucket": "trapstar-8e6b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993224369812:android:cf80e3e95934936fb4f681",
+        "android_client_info": {
+          "package_name": "net.coding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyu69i0G7DpTR-CusAijY3WmO7ZWwM0HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
